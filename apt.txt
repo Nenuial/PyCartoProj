@@ -1,1 +1,1 @@
-gdal-config
+gdal-bin
