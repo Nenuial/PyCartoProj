@@ -15,7 +15,7 @@ geopy
 geopandas
 folium
 xyzservices
-gdal>=2.2.3
+pygdal
 
 # plotting
 matplotlib>=3.2
